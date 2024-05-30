@@ -1,0 +1,201 @@
+body {
+    background-image: url(image/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #080602;
+
+
+    /* #15054b */
+}
+
+footer {
+    background-color: #30212ee8;
+    color: #decadb;
+    text-align: center;
+    padding: 10px 0;
+
+}
+
+#mainnav {
+    background-color: #171016e8;
+}
+
+#mainnav a {
+    color: aliceblue;
+    text-align: center;
+}
+
+#mainnav .tog {
+    background-color: #621c57a3;
+    text-align: center;
+}
+
+#mainnav.scrolled {
+    background: #432a3fe8;
+    transition: background 500ms;
+}
+
+.name {
+    color: #742f69;
+    font-weight: 400;
+}
+
+#about {
+    margin-top: 80px;
+    background-color: #171016e8;
+    color: #decadb;
+
+
+}
+
+#about:hover {
+    transition-delay: .25s;
+    box-shadow: 0px 0px 10px #84237685;
+}
+
+#about h1 {
+    font-size: 2rem;
+    font-weight: 100;
+
+}
+
+#about a {
+    color: #decadb;
+
+    text-decoration: none;
+
+}
+
+
+
+#project {
+    margin-top: 50px;
+    background-color: #171016e8;
+    color: #decadb;
+
+
+
+}
+
+#project h2 {
+    font-size: 2rem;
+    font-weight: 100;
+    padding: 20px;
+
+}
+
+#project:hover {
+    transition-delay: .25s;
+    box-shadow: 0px 0px 10px #84237685;
+}
+
+.arrowbtn {
+    padding-top: 20px;
+}
+
+.arrowbtn .mybtn {
+    color: #decadb;
+
+    text-decoration: none;
+}
+
+
+
+.arrowbtn a :hover {}
+
+
+#experience {
+    margin-top: 50px;
+    background-color: #171016e8;
+    text-decoration: none;
+    color: #decadb;
+}
+
+#experience h2 {
+    font-size: 2rem;
+    font-weight: 100;
+    padding: 20px;
+
+}
+
+#experience h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    letter-spacing: 1px;
+
+}
+
+#experience:hover {
+    transition-delay: .25s;
+    box-shadow: 0px 0px 10px #84237685;
+}
+
+#contacts {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color: #171016e8;
+    text-decoration: none;
+    color: #decadb;
+}
+
+#contacts:hover {
+    transition-delay: .25s;
+    box-shadow: 0px 0px 10px #84237685;
+}
+
+#contacts h2 {
+
+    font-weight: 200;
+}
+
+#contacts h3 {
+
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+#contacts a {
+
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+#p1 {
+    margin-top: 80px;
+    background-color: #171016e8;
+    text-decoration: none;
+    color: #decadb;
+}
+
+#p1 h2 {
+
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+#p1 img {
+
+    object-fit: cover;
+    width: 100%;
+}
+
+#p1 button {
+
+
+    background-color: #742f69;
+
+}
+
+#p1 a {
+    color: #decadb;
+    text-decoration: none;
+}
